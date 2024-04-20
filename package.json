@@ -1,0 +1,21 @@
+{
+  "name": "aliza444todolist",
+  "version": "1.0.1",
+  "description": "it is a simple making todo list",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "444todolist": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
